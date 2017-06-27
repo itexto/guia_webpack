@@ -1,0 +1,18 @@
+{
+  "name": "code",
+  "version": "1.0.0",
+  "description": "Exemplo de projeto usando o Webpack",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack"
+  },
+  "keywords": ["Itexto", "guias da Itexto"],
+  "author": "Henrique Lobo Weissmann",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^3.0.0"
+  },
+  "dependencies": {
+    "loadash": "0.0.1"
+  }
+}

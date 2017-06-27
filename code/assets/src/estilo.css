@@ -1,0 +1,17 @@
+@font-face {
+  font-family: 'Open Sans', sans-serif;
+  src: url('./OpenSans-Light.ttf');
+  font-weight: 300;
+  font-style: normal;
+}
+body {
+  background-color: black;
+  color: white;
+  font-family: 'Open Sans', sans-serif;
+}
+
+#slogan {
+  min-height: 220px;
+  width: 646px;
+  background: url('./imagem.png');
+}
