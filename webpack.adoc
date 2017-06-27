@@ -68,7 +68,13 @@ Este guia é escrito levando-se em consideração os sistemas operacionais Linux
 
 O uso do Linux e Mac OS baseia-se apenas no fato de serem os sistemas operacionais usados internamente pela Itexto no desenvolvimento de seus projetos.
 
-=== Agradecimentos
+=== Como obter o código fonte
+
+O código fonte deste guia pode ser acessado pelo Github do eBook no seguinte endereço: https://github.com/itexto/guia_webpack
+
+A propósito, todos os guias da Itexto tem seu código fonte aberto. Sendo assim, caso encontre algum erro ou tenha sugestões de inclusão, pode me escrever! kico@itexto.com.br 
+
+=== Agradecimento
 
 Este guia surgiu dos estudos internos que realizei com Italo Daldegan (aqui da Itexto) a respeito do ferramental adotado no desenvolvimento de projetos frontend com tecnologias HTML 5. Sendo assim, agradeço ao Italo por ter me aguentado durante este processo e, também, pelo trabalho de revisão realizado neste trabalho.
 
